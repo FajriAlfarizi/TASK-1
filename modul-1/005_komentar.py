@@ -1,1 +1,0 @@
-print("INI ADALAH KOMENTAR PAK") # Contoh Komentar
